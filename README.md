@@ -5,21 +5,21 @@ This project includes CRUD operations which connects to ASP.NET core API and sav
 ![image](https://github.com/ashk406/PaymentApp/assets/41159884/2722c17a-fb55-4f05-8951-b26b716b5448)
 
 # What I learned from this project
-Things You Should Before Moving to Angular App
-Case Conversion
-Create Angular App
-APP Structure
-Let's start designing the App
-Retrive Existing List of Records.
-Retrieve and Display Existing Records in Angular App.
-Configure/Enable CORS Policy
-Render an Array of Objects in Angular
-Design an Angular Form
-Submit the Form
-Reset Form
-Toast Notification
-Angular Form Validation
-Update & Delete Operation
+- Things that Should Before knowing in working with Angular App
+- Case Conversion
+- Create Angular App
+- APP Structure
+- Let's start designing the App
+- Retrive Existing List of Records.
+- Retrieve and Display Existing Records in Angular App.
+- Configure/Enable CORS Policy
+- Render an Array of Objects in Angular
+- Design an Angular Form
+- Submit the Form
+- Reset Form
+- Toast Notification
+- Angular Form Validation
+- Update & Delete Operation
 
 ## Development server
 
